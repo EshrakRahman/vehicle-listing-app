@@ -1,0 +1,23 @@
+[
+    {
+        "name": "bmw",
+        "type": "car",
+        "price": "200",
+        "image": "https:\/\/images.unsplash.com\/photo-1704340142770-b52988e5b6eb?q=80&w=1700&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDF8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "id": "68c6c81c2d855"
+    },
+    {
+        "name": "Audi",
+        "type": "car",
+        "price": "345",
+        "image": "https:\/\/images.unsplash.com\/photo-1610880846497-7257b23f6138?q=80&w=1921&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "id": "68c6c8e7320fa"
+    },
+    {
+        "name": "Ferrari",
+        "type": "car",
+        "price": "534",
+        "image": "https:\/\/images.unsplash.com\/photo-1583121274602-3e2820c69888?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "id": "68c6c91c460be"
+    }
+]
